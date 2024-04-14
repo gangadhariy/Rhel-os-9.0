@@ -1,0 +1,3 @@
+[submodule "AzureHCI-RHEL-ImagePipeline"]
+	path = AzureHCI-RHEL-ImagePipeline
+	url = https://github.com/gangadhariy/Rhel-os-9.0.git
